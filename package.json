@@ -1,0 +1,19 @@
+{
+  "name": "json-api-to-array",
+  "version": "1.0.3",
+  "description": "Takes the url of a JSON API and saves the data to an array.",
+  "main": "input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "api",
+    "array"
+  ],
+  "author": "Clint Alexander",
+  "license": "MIT",
+  "dependencies": {
+    "json-api-to-array": "^1.0.1"
+  }
+}
