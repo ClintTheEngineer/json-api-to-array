@@ -1,0 +1,5 @@
+{
+    "include": [
+        "decs.d.ts"
+    ]
+}
