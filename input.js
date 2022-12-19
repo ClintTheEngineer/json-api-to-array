@@ -1,4 +1,6 @@
 'use strict';
+require('./decs')
+const url = require('json-api-to-array')
 
 module.exports = function array(url){
     const request = new XMLHttpRequest();
